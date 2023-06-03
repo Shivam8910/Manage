@@ -1,1 +1,1 @@
-# Manage is live at 
+# Manage
